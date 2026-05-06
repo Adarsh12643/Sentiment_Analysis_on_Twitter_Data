@@ -18,7 +18,7 @@ You will need Python 3.x installed along with these libraries:
 ## 📈 Usage
 
 1.  **Clone the repository** 📁:
-    `git clone [https://github.com/your-username/twitter-sentiment-analysis.git](https://github.com/your-username/twitter-sentiment-analysis.git)`
+    `git clone [https://github.com/Adarsh12643/twitter-sentiment-analysis.git](https://github.com/Adarsh12643/twitter-sentiment-analysis.git)`
 2.  **Navigate to the directory** 📂:
     `cd twitter-sentiment-analysis`
 3.  **Run the application** ▶️:
